@@ -1,8 +1,3 @@
-### IMDB WEB SCRAPPING WITH PYTHON BEAUTIFULSOUP
 
-Data Collection is part of the Data Scientist job and not all the data come reafy or found ready-made, sometimes <br/>
-scrapping websites has to be done to get all the data and clean them to do analysis and other model training.
-Learning Web scrapping using python it's necessary for anyone aspiring to become a data scientist.
-Here is my small code that i wrote while learning python to be able to scrape imdb website and return top rated movies with their imdb ratings.
 
 
